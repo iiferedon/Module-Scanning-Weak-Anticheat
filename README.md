@@ -4,6 +4,8 @@ Detect unauthorized modules injected into sensitive applications
   <p>
     A Windows-based tool designed to monitor and detect potentially suspicious or external modules loaded by a specific process.
     This scanner helps identify unauthorized modules, monitor unusual activity, and validate module legitimacy against a remote server.
+
+In this example I have injected two dlls (cheats) into a process and is detected a commonly placed dll file location in temp.
   </p>
 <img src="Images/friedchicken.png" width="600">
   <h2>✨ Features</h2>
